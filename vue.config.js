@@ -5,5 +5,4 @@ module.exports = defineConfig({
   },
   transpileDependencies: true,
   publicPath: "/hotel-app-vue/",
-  base: "/hotel-app-vue/",
 });
