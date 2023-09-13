@@ -4,6 +4,6 @@ module.exports = defineConfig({
     config.resolve.alias.set("vue$", "vue/dist/vue.esm-bundler.js");
   },
   transpileDependencies: true,
-  publicPath: "/kavinkumar.hotel.github.io/",
+  publicPath: "/hotel-app-vue/",
   base: "/hotel-app-vue/",
 });
