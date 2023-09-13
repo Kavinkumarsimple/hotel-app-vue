@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkkavinkumar_hotel_app"]=self["webpackChunkkavinkumar_hotel_app"]||[]).push([[443],{833:function(a,n,u){u.r(n),u.d(n,{default:function(){return l}});var t=u(9199);const e={class:"about"},r=(0,t._)("h1",null,"This is an about page",-1),s=[r];function i(a,n){return(0,t.wg)(),(0,t.iD)("div",e,s)}var c=u(89);const o={},k=(0,c.Z)(o,[["render",i]]);var l=k}}]);
+//# sourceMappingURL=about.a24e8487.js.map
