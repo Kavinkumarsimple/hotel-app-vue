@@ -1,19 +1,4 @@
-# kavinkumar-hotel-app
 
-## Project setup
-```
-npm install
-```
+# Hotel Clone Web App - VueJS
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This website is a one-page static desktop site that comprises various components meticulously cloned from different hotel websites i.e. Cinnamon Grand, Shangri-La, Hilton.
